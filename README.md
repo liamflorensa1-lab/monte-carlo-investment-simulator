@@ -24,3 +24,5 @@ This project helped me understand:
 - helps visualize investment risk
 
 This project is for learning purposes.
+![Monte Carlo simulation result](m liam portfolio.png)
+

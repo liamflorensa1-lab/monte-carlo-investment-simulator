@@ -24,5 +24,8 @@ This project helped me understand:
 - helps visualize investment risk
 
 This project is for learning purposes.
-![Monte Carlo simulation result](m liam portfolio.png)
+
+![Monte Carlo simulation result](m liam portfolio.PNG)
+*Example of simulated future portfolio values using Monte Carlo methods.*
+
 

@@ -25,7 +25,7 @@ This project helped me understand:
 
 This project is for learning purposes.
 
-![Monte Carlo simulation result](m liam portfolio.PNG)
+<img width="639" height="479" alt="m liam portfolio" src="https://github.com/user-attachments/assets/7e0c59a6-5650-430c-9171-1f8146c99212" />
 *Example of simulated future portfolio values using Monte Carlo methods.*
 
 
